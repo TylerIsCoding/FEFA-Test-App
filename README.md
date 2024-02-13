@@ -8,6 +8,7 @@
 <br>
 <p>
 I built this application using ASP.NET, C#, SQL, HTML5, CSS3, and JavaScript.
+  
 - ASP.NET is the framework used to build this MVC CRUD application.
 - C# is the coding language that was used in conjunction with ASP.NET.
 - HTML5 provided the structure and content for the website
